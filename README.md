@@ -5,4 +5,4 @@
 
 # Output
 ![gambar](/img/bb.PNG)
-![gambar](/img/bbc.PNG)
+![gambar](https://github.com/Hendraparsaulian28/Maps/blob/main/img/bbc.png)
